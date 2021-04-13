@@ -5,6 +5,8 @@ I ♥️ Cinema 🎫 / Shawarma 🤤 / Drone 🛩️ / Stock Android 📱/ Cycli
 👯 Looking for a open source collaboration 
 
 🔭 Currently working on a movie ticket alerter named **Ticky**
+
+⚡ Part of [@CodeAsMad](https://github.com/CodeAsMad) an initiative for making things simpler
 <!--
 **thedukerchip/thedukerchip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
