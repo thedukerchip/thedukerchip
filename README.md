@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi 👋 I'm Karthik 
 
+I ♥️ Cinema 🎫 / Shawarma 🤤 / Drone 🛩️ / Stock Android 📱/ Cycling 🚲
+
+👯 Looking for a open source collaboration 
+
+🔭 Currently working on a movie ticket alerter named **Ticky**
 <!--
 **thedukerchip/thedukerchip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +17,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ : ...
 -->
+##### Fun fact 😄
+ - Never flew a drone
+ - Never did cycling
